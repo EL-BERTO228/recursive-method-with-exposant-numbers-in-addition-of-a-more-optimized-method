@@ -16,6 +16,7 @@ double facto_rec(int n){
     }
     return n*facto(n-1);
 }
+//
 
 int main(){
     int n;
